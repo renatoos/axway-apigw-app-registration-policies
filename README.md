@@ -1,0 +1,1 @@
+# axway-apigw-app-registration-policies
